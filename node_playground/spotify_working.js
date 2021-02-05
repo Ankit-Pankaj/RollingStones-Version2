@@ -154,7 +154,7 @@ app.listen(3000, function(){
 });
 
 
-// curl -H "Authorization: Basic NTU1ZDlkNWRlMzIyNDE4ODllNmI0ZWU0MzdiNzk1MDk6MTdlYjMwYzFiNWU5NDlmOGE5MTgzYjIxNzNiMzAwYzU=" -d grant_type=authorization_code -d code=AQBWE6yH5vvdtC-lGv8iYCSHxmeHMlkX5FuhRysjWm_L1ymmKXFJjVU4up4L4q2ppDrB3Dig0U0fTd5B0GoMceYgbkALABvGMEsANqfz_l9Eg8omHdBtWe-lmOLGit52x4tDnWHs_EXVTdbxR5e_j6kATJzKEi6M5c8RVuON8P75DWxkekqxj7nnznunrUiBXJLTGR9aSTb5YVD9LpBbPxPjaP07dQ -d redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fredirect https://accounts.spotify.com/api/token
+// curl -H "Authorization: Basic =" -d grant_type=authorization_code -d code=AQBWE6yH5vvdtC-- -d redirect_uri=http%3A%2F% https://accounts.spotify.com/api/token
 
 // curl -X GET "https://api.spotify.com/v1/search?q=tania%20bowra&type=artist"
 
