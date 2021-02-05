@@ -1,6 +1,6 @@
 ## RollingStones-Version2.0
 
-#### One of the most complex but most awesome and my favourite project. Saying that I am left in ocean to learn to swim won't be wrong here 😄. But the learning is exponentially incresed due to its complexity.
+#### One of the most complex but most awesome and my favourite project😄. But the learning is exponentially incresed due to its complexity.
 Its just version 2.0 of Roling stones app which I created before.
 
 There I used the curl request to get the required data from their servers and then saved it locally to render on browser.
