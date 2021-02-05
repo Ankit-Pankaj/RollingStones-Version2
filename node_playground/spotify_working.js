@@ -56,7 +56,7 @@ app.get("/redirect", function(req,res){ // redirection url
            method: 'post',
          url: 'https://accounts.spotify.com/api/token',
          headers: { 
-           'Authorization': 'Basic NTU1ZDlkNWRlMzIyNDE4ODllNmI0ZWU0MzdiNzk1MDk6MTdlYjMwYzFiNWU5NDlmOGE5MTgzYjIxNzNiMzAwYzU=', 
+           'Authorization': 'Basic "Base64code"=', 
            'Content-Type': 'application/x-www-form-urlencoded', 
            'Cookie': '__Host-device_id=AQBg2MLobjYC3zoZF-0_-b3ne5Eo2oxjvjmrkJoId-XiSSf_hhlBDK5gg7xE9rVYyPpCYV8zGpn4QBwFWlhlUeJg4xzmKGPS49I'
          },
